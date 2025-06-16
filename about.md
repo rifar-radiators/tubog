@@ -1,6 +1,9 @@
 # О радиаторах Tubog
 
 - [Tubog Classic](https://github.com/rifar-radiators/tubog/blob/main/classic.md)
+- [Tubog Flex](https://github.com/rifar-radiators/tubog/blob/main/flex.md)
+- [Tubog Horizont](https://github.com/rifar-radiators/tubog/blob/main/horizonr.md)
+- [Tubog Medical](https://github.com/rifar-radiators/tubog/blob/main/medical.md)
 
 Добро пожаловать в TUBOG — производственный комплекс, где передовые роботизированные технологии встречаются с многолетним опытом для создания высококачественных и надежных радиаторов. Мы применяем проверенные и эффективные решения, чтобы обеспечить бесперебойное производство отопительных приборов, отвечающих самым высоким стандартам.
 
